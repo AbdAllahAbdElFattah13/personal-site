@@ -39,6 +39,7 @@ languages:
   ar:
     weight: 1
     languagedirection: rtl
+    rtl: true
     title: AbdAllah's
     languageName: ":egypt:"
     params:
