@@ -1,0 +1,72 @@
+baseurl: "http://www.abdallah-abdelfattah.me/"
+title: AbdAllah's
+theme: hugo-coder
+languagecode: ar
+defaultcontentlanguage: ar
+
+paginate: 20
+
+pygmentsstyle: bw
+pygmentscodefences: true
+pygmentscodefencesguesssyntax: true
+
+params:
+  avatarurl: images/avatar.jpg
+  favicon_32: /img/favicon-32x32.png
+  favicon_16: /img/favicon-16x16.png
+  description: AbdAllah's personal website
+  since: 2015
+  enableTwemoji: true
+  colorScheme: auto
+  hidecolorschemetoggle: false
+  social:
+    - name: Github
+      icon: fa fa-github fa-2x
+      weight: 1
+      url: "https://github.com/AbdAllahAbdElFattah13/"
+    - name: LinkedIn
+      icon: fa fa-linkedin fa-2x
+      weight: 2
+      url: "https://www.linkedin.com/in/abdallahabdelfatah/"
+
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+  author: authors
+
+languages:
+  ar:
+    weight: 1
+    languagedirection: rtl
+    title: AbdAllah's
+    languageName: ":egypt:"
+    params:
+      author: عبدالله عبدالفتاح
+      info: "مسلم وإنسان ومهندس برمجيات"
+      keywords: "blog,developer,personal"
+    menu:
+      main:
+        - name: مدونة
+          weight: 1
+          url: posts/
+        - name: عني
+          weight: 2
+          url: about/
+  en:
+    title: AbdAllah's
+    weight: 2
+    languageName: ":uk:"
+    params:
+      author: AbdAllah AbdElFattah
+      info: "Muslim, Human and Software engineer"
+      description: AbdAllah's personal website
+      keywords: "blog,developer,personal"
+    menu:
+      main:
+        - name: Blog
+          weight: 1
+          url: posts/
+        - name: About
+          weight: 2
+          url: about/
