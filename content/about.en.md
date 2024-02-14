@@ -35,9 +35,12 @@ After leaving, I spent sometime as Android Engineer. Worked on a cool app called
 
 Afterwards, I had a quick work experience as a Software Engineer II in Amazon working as part of the [Amazon Business](https://business.amazon.com/) team in Spain. That was around the pandemic time in June 2020, it was my first fully remote experience and it didn't go well. I had to go around September same year.
 
-Finally, I joined [OLX Egypt](https://www.linkedin.com/company/olx-egypt/) - [EMPG Group](https://www.empg.com/) in October 2020 as a Senior Software Engineer. Initially working on [OLX Egypt](https://play.google.com/store/apps/details?id=olx.egypt) Android app, then moved to work on [olx.com.eg](https://olx.com.eg/) web platform in conjunction with our sister company [Sector Labs](https://www.sectorlabs.io/), serving OLX apps in the middle east and north Africa region including but not limited to Lebanon, Oman, Bahrain, Kuwait, Qatar, Saudi Arabia, as well as Egypt.
+Finally, I joined [dubizzle Egypt](https://www.linkedin.com/company/dubizzleegypt/) - [dubizzle Group](https://www.dubizzlegroup.com/) (Formerly OLX Egypt - EMPG), in October 2020 as a Senior Software Engineer. Initially working on [dubizzle Egypt](https://play.google.com/store/apps/details?id=olx.egypt) Android app, then moved to work on [dubizzle.com.eg](https://dubizzle.com.eg/) web platform in conjunction with our sister company [Sector Labs](https://www.sectorlabs.io/), serving OLX apps in the middle east and north Africa region including but not limited to Lebanon, Oman, Bahrain, Kuwait, Qatar, Saudi Arabia, as well as Egypt and Pakistan.
 
-Lately, I've been acting as an Engineering Manger for the Engineering team in OLX Egypt and Lebanon. But I'm still a Software Engineer at heart, actively contributing to the codebase on day to day basis. :)
+Beginning mid 2022, I was requested to act as an Engineering Manger for the Engineering teams in dubizzle Egypt and Lebanon. However I continued actively contributing to the codebase on day to day basis, as much as I could. It was a successful and eye-opening experience, as I got to work closely with the commercial teams in dubizzle, and gain a deeper understanding (and honestly appreciation) to the business side of things.
+But I've always felt it was a bit early for me to transition fully into management, I wasn't done with the engineering part of my story, not just yet. :)
+
+That's why - starting from 2024 - I'm back again as a full-stack software engineer with more focus on web technologies. :)
 
 ## Other stuff
 
