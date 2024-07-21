@@ -71,3 +71,7 @@ languages:
         - name: About
           weight: 2
           url: about/
+
+services:
+  googleAnalytics:
+    ID: G-23P1Y5CLHC
