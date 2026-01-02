@@ -16,3 +16,6 @@ hugo.linux
 
 # Visual Studio Code
 .vscode/
+
+# JetBrains IDEs
+.idea/
