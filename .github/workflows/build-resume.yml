@@ -1,0 +1,64 @@
+name: Build Resume PDFs
+
+on:
+  push:
+    paths:
+      - 'resume/*.md'
+    branches: [main]
+  pull_request:
+    paths:
+      - 'resume/*.md'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Pandoc & LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-latex-base texlive-fonts-recommended texlive-latex-extra
+
+      - name: Generate Resume PDF
+        run: |
+          mkdir -p static/resume
+          pandoc resume/RESUME.md -o static/resume/RESUME.pdf \
+            --pdf-engine=pdflatex \
+            -V geometry:margin=0.6in \
+            -V fontsize=10pt \
+            -V fontfamily=palatino \
+            -V colorlinks=true \
+            -V linkcolor=blue \
+            -V urlcolor=blue
+
+      - name: Generate CV PDF
+        run: |
+          pandoc resume/CV.md -o static/resume/CV.pdf \
+            --pdf-engine=pdflatex \
+            -V geometry:margin=0.45in \
+            -V fontsize=10pt \
+            -V fontfamily=palatino \
+            -V colorlinks=true \
+            -V linkcolor=blue \
+            -V urlcolor=blue
+
+      - name: Upload PDF artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: resume-pdfs
+          path: static/resume/*.pdf
+          retention-days: 30
+
+      - name: Commit PDFs
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add static/resume/*.pdf
+          git diff --staged --quiet || git commit -m "chore: regenerate resume PDFs"
+          git push
