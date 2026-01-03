@@ -53,13 +53,13 @@ Reported to country manager. Owned product roadmaps impacting Egypt, Lebanon, Om
 - Established communication lines with Sector Labs engineering leadership for cross-market alignment
 - Contributed to codebases as full-stack engineer (Django/React)
 
-### ReactNative Engineer | Dubizzle Egypt
+### React Native Engineer | Dubizzle Egypt
 
 **Jan 2022 - Jun 2022 | Remote**
 
 Squad lead for Real-estate verticals epic across web and mobile platforms.
 
-- Led migration of user base from native Android to cross-platform ReactNative app
+- Led migration of user base from native Android to cross-platform React Native app
 - Collaborated with sister company Sector Labs on shared codebases
 - Coached junior engineers; conducted candidate interviews
 
