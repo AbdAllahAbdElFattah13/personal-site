@@ -36,7 +36,7 @@ jobs:
       - name: Build
         env:
           HUGO_ENVIRONMENT: production
-        run: hugo --minify --baseURL "https://abdallahAbdElFattah13.github.io/abdallah-abdelfattah/"
+        run: hugo --minify --baseURL "https://AbdAllahAbdElFattah13.github.io/personal-site/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
