@@ -12,6 +12,8 @@ on:
 
 jobs:
   build:
+    # Skip if triggered by the bot's own commits (prevents potential loops)
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     permissions:
       contents: write

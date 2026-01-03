@@ -6,7 +6,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-Software Engineer with 8+ years building scalable systems across full-stack web, mobile, and data engineering. Track record of end-to-end ownership, from architecture through deployment with measurable impact: 96% cost reduction through platform optimization, 75% faster development cycles via reusable frameworks, and zero-downtime migrations of production data pipelines. Experienced in designing systems that enable team autonomy and eliminate cross-team dependencies.
+Software Engineer with 8+ years building scalable systems across full-stack web, mobile, and data engineering. Track record of end-to-end ownership, from architecture through deployment, with measurable impact: 96% cost reduction through platform optimization, 75% faster development cycles via reusable frameworks, and zero-downtime migrations of production data pipelines. Experienced in designing systems that enable team autonomy and eliminate cross-team dependencies.
 
 ## TECHNICAL SKILLS
 
@@ -33,7 +33,7 @@ Software Engineer with 8+ years building scalable systems across full-stack web,
 
 ### Engineering Manager | Dubizzle Egypt
 
-**Jun 2022 - Jun 2024 | Remote**
+**Jun 2022 - Aug 2024 | Remote**
 
 - Led Pro-Agency Portal development achieving 85% adoption in 3 months; enabled agencies to manage 1,000+ ad inventories with distributed agent quotas across Egypt and Lebanon markets
 - Designed automated telesales system reducing package application time from 1 day to instant; integrated payment gateway webhooks for zero-human-interaction flow
