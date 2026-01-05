@@ -34,7 +34,7 @@ Experienced in designing systems that enable team autonomy and eliminate cross-t
 
 ## WORK EXPERIENCE
 
-### Senior Full Stack Engineer | c3s Software (Single Digits)
+### Senior Full Stack Engineer | c3s Software (Confidential Client)
 
 **Aug 2024 - Present | Remote**
 
@@ -104,7 +104,7 @@ Single solutions engineer creating apps across Android, cross-platform, and back
 
 ## PROJECTS
 
-### c3s Software / Single Digits (2024-2025)
+### c3s Software / Confidential Client (2024-2025)
 
 **MUI Version Migration Facade Architecture**
 Feb 2025 | React, JavaScript, Context API, Factory Pattern, Facade Pattern, Micro-Frontend
