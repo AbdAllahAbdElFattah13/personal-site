@@ -51,7 +51,7 @@ The work spans React on the frontend, Java and Python on the backend, and Snowfl
 - Migrated 13 Terraform repositories to a stable Snowflake provider with zero downtime across 10+ GB/day data pipelines, clearing 2 years of tech debt
 - Reduced Datadog monitoring costs by 96% ($5/day to $0.20/day) while making alerts 24x faster (2 hours vs next-day)
 - Built an authorization API with <50ms latency running at ~$0.30/month
-- Designed an event interception system for looker events that to allow data drilling in the same window, enhancing the user experience
+- Designed an event interception system for looker events to allow data drilling in the same window, enhancing the user experience
 
 It's a pretty broad range - frontend, backend, data engineering, infrastructure. But that's exactly what makes it interesting; no two weeks look the same, and I get to learn something new constantly. :)
 
