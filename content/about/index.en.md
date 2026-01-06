@@ -46,7 +46,7 @@ In August 2024, I joined [c3s Software](https://www.c3ssoftware.com/), working w
 
 The work spans React on the frontend, Java and Python on the backend, and Snowflake for data engineering. Some highlights I'm proud of:
 
-- Built a version-aware architecture that unified 5+ micro-apps and 20 dashboards under a single library system, eliminating cross-team blocking
+- Built a version-aware libraries and architecture that unified 5+ micro-apps and 20 dashboards under a single library system, eliminating cross-team blocking
 - Created a Snowflake ETL testing framework that cut vendor integration time by 75% (from 2+ weeks down to 2-3 days) - now used for 7+ vendor integrations with zero production impact
 - Migrated 13 Terraform repositories to a stable Snowflake provider with zero downtime across 10+ GB/day data pipelines, clearing 2 years of tech debt
 - Reduced Datadog monitoring costs by 96% ($5/day to $0.20/day) while making alerts 24x faster (2 hours vs next-day)
