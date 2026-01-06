@@ -20,7 +20,7 @@ Software Engineer with 8+ years building scalable systems across full-stack web,
 
 ## WORK EXPERIENCE
 
-### Senior Full Stack Engineer | c3s Software (Single Digits)
+### Senior Full Stack Engineer | c3s Software (Confidential Client)
 
 **Aug 2024 - Present | Remote**
 

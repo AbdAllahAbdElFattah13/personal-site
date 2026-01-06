@@ -40,7 +40,22 @@ Finally, I joined [dubizzle Egypt](https://www.linkedin.com/company/dubizzleegyp
 Beginning mid 2022, I was requested to act as an Engineering Manger for the Engineering teams in dubizzle Egypt and Lebanon. However I continued actively contributing to the codebase on day to day basis, as much as I could. It was a successful and eye-opening experience, as I got to work closely with the commercial teams in dubizzle, and gain a deeper understanding (and honestly appreciation) to the business side of things.
 But I've always felt it was a bit early for me to transition fully into management, I wasn't done with the engineering part of my story, not just yet. :)
 
-That's why - starting from 2024 - I'm back again as a full-stack software engineer with more focus on web technologies. :)
+So early 2024, I transitioned back to an individual contributor role, working as a full-stack engineer on Django and React while still at dubizzle. That lasted until the end of June 2024.
+
+In August 2024, I joined [c3s Software](https://www.c3ssoftware.com/), working with one of their biggest clients - who will remain confidential :) - as a Senior Full Stack Engineer, working remotely. It's been quite the ride so far.
+
+The work spans React on the frontend, Java and Python on the backend, and Snowflake for data engineering. Some highlights I'm proud of:
+
+- Built version-aware frontend libraries and architecture that unified 5+ micro-apps and 20 dashboards under a single library system, eliminating cross-team blocking
+- Created a Snowflake ETL testing framework that cut vendor integration time by 75% (from 2+ weeks down to 2-3 days) - now used for 7+ vendor integrations with zero production impact
+- Migrated 13 Terraform repositories to a stable Snowflake provider with zero downtime across 10+ GB/day data pipelines, clearing 2 years of tech debt
+- Reduced Datadog monitoring costs by 96% ($5/day to $0.20/day) while making alerts 24x faster (2 hours vs next-day)
+- Built an authorization API with <50ms latency running at ~$0.30/month
+- Designed an event interception system for looker events to allow data drilling in the same window, enhancing the user experience
+
+It's a pretty broad range - frontend, backend, data engineering, infrastructure. But that's exactly what makes it interesting; no two weeks look the same, and I get to learn something new constantly. :)
+
+If you're curious about the technical details or want a more structured view of my experience, feel free to check out my [Resume](/resume/RESUME.pdf) (the short version) or my [CV](/resume/CV.pdf) (the longer one with project details).
 
 ## Other stuff
 
